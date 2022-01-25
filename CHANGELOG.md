@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-securitycenter/#history
 
+## [1.9.0](https://github.com/googleapis/python-securitycenter/compare/v1.8.0...v1.9.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#273](https://github.com/googleapis/python-securitycenter/issues/273)) ([96e1e0c](https://github.com/googleapis/python-securitycenter/commit/96e1e0c752f62faf4898f60e269dbbbb0d37887f))
+
 ## [1.8.0](https://github.com/googleapis/python-securitycenter/compare/v1.7.0...v1.8.0) (2022-01-14)
 
 
